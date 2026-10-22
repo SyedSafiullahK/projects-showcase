@@ -121,4 +121,3 @@ Platform with customer, shop owner and admin dashboards: email verified sign up,
 **Syed Safiullah Khalid** | Full stack developer
 Email: [syedsafiullahkhalid@gmail.com](mailto:syedsafiullahkhalid@gmail.com)
 LinkedIn: [linkedin.com/in/syed-safiullah-khalid-a43562247](https://www.linkedin.com/in/syed-safiullah-khalid-a43562247)
-Portfolio: [syedsafiullah-resume.vercel.app](https://syedsafiullah-resume.vercel.app)
